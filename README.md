@@ -1,1 +1,1 @@
-# lab6
+# This is a program that asks the user for their name, age, and favorite food. Then two print statements will display the information as well as how old the user will be in 5 years. 
